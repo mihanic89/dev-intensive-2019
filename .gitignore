@@ -46,6 +46,7 @@ captures/
 google-services.json
 
 # Version control
+
   vcs.xml
 # OS-specific files
 .DS_Store
